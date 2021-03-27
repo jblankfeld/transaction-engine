@@ -1,0 +1,10 @@
+[package]
+name = "transaction-engine"
+version = "0.1.0"
+authors = ["Thomas Schreiber"]
+edition = "2018"
+
+[dependencies]
+csv = "*"
+rust_decimal = "*"
+serde = { version = "*", features = ["derive"] }
