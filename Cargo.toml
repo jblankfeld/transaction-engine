@@ -5,6 +5,8 @@ authors = ["Thomas Schreiber"]
 edition = "2018"
 
 [dependencies]
-csv = "*"
-rust_decimal = "*"
-serde = { version = "*", features = ["derive"] }
+log = "0.4.14"
+env_logger = "0.8.3"
+csv = "1.1.6"
+rust_decimal = "1.10.3"
+serde = { version = "1.0.125", features = ["derive"] }

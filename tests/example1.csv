@@ -17,3 +17,7 @@ deposit, 1, 15, 2.0
 withdrawal, 2, 16, 1.5
 withdrawal, 1, 17, 4.0
 deposit, 2, 18, 6.43
+deposit, 2, 19,
+dispute, 2, 2
+unknown, 3, 21, 0
+unknown, 3, 21, 0, 54
